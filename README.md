@@ -1,1 +1,3 @@
 # chemicalLabelClassifier
+
+with CNN
